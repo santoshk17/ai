@@ -7,12 +7,12 @@ description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: aisantoshkumar2018@gmail.com
+author: A Santosh Kumar
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: One sentence introducing yourself.
 #twitter_username: twitter_username
-#github_username:  github_username
+github_username:  santoshk17
 profile_links:
   Email: "mailto:your_email@example.com"
   GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
@@ -29,7 +29,6 @@ header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
     Category: /category/
-    Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
 plugins:
