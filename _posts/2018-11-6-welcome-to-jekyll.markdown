@@ -5,7 +5,7 @@ date:   2018-11-06 09:00:13
 categories: jekyll update
 permalink: /archivers/hello
 ---
-Please visit [https://en.wikipedia.org/wiki/Languages_with_official_status_in_India](official)
+There are 22 [official](https://en.wikipedia.org/wiki/Languages_with_official_status_in_India) languages in India.
 
 <!--more-->
 
