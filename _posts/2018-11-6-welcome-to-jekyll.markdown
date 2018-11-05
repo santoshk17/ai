@@ -17,8 +17,8 @@ There are 22 [official](https://en.wikipedia.org/wiki/Languages_with_official_st
 
 You are using [EasyBook][github-easybook] the template from [laobubu.net](http://laobubu.net). Therefore some features are supported now:
 
-* **Wikipedia** is enabled.
-* **BBC** or **多说** is ready.
+* **Wikipedia** .
+* **BBC**  service websites in Bengali, Gujrati, Hindi and Telugu.
 
 
 
