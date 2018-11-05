@@ -33,7 +33,7 @@ Images of news articles were taken from these websites. It was ensured that only
 
 
 
-### Conclusion ###
+## Conclusion ##
 
 EasyBook does not make the footer heavy; the link to theme could be on `about.md`:
 
@@ -43,8 +43,11 @@ EasyBook does not make the footer heavy; the link to theme could be on `about.md
 
 ## Acknowledgement ##
 
- [BBC Bengali](https://www.bbc.com/bengali]) 
+[BBC Bengali](https://www.bbc.com/bengali]) 
+
 [BBC Gujarati]:(https://www.bbc.com/gujarati)
+
 [BBC Hindi]:   (https://www.bbc.com/hindi)
+
 [BBC Telugu]: (https://www.bbc.com/telugu)
 
