@@ -25,7 +25,7 @@ The following websites are the source of my training data:
 * **BBC**  service websites in Bengali, Gujrati, Hindi and Telugu.
 
 These were chosen to keep similarity of font and style across all the scripts.
-
+Images of news articles were taken from these websites. It was ensured that only text was present in the image.
 > **Tips:** You can disable Disqus or 多说 on posts/pages by adding `nocomments: true` into [YAML Front Matter][frontmatter].
 
 
