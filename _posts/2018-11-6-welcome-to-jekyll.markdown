@@ -15,12 +15,12 @@ There are 22 [official](https://en.wikipedia.org/wiki/Languages_with_official_st
 
 ## Training Data ##
 
-You are using [EasyBook][github-easybook] the template from [laobubu.net](http://laobubu.net). Therefore some features are supported now:
+The following websites are the source of my training data:
 
 * **Wikipedia** .
 * **BBC**  service websites in Bengali, Gujrati, Hindi and Telugu.
 
-
+These were chosen to keep similarity of font and style across all the scripts.
 
 > **Tips:** You can disable Disqus or 多说 on posts/pages by adding `nocomments: true` into [YAML Front Matter][frontmatter].
 
