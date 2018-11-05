@@ -43,10 +43,8 @@ EasyBook does not make the footer heavy; the link to theme could be on `about.md
 
 ## Acknowledgement ##
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+ [https://www.bbc.com/bengali]](https://www.bbc.com/bengali]) 
+[https://www.bbc.com/gujarati]:(https://www.bbc.com/gujarati)
+[https://www.bbc.com/hindi]:   (https://www.bbc.com/hindi)
+[https://www.bbc.com/telugu]: (https://www.bbc.com/telugu)
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
-[frontmatter]: http://jekyllrb.com/docs/frontmatter/
-[github-easybook]: https://github.com/laobubu/jekyll-theme-EasyBook
