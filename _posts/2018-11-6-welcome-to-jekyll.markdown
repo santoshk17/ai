@@ -6,11 +6,10 @@ categories: jekyll update
 permalink: /archivers/hello
 ---
 ## Introduction ##
-There are 22 [official](https://en.wikipedia.org/wiki/Languages_with_official_status_in_India) languages in India.
+There are 22 [official](https://en.wikipedia.org/wiki/Languages_with_official_status_in_India) languages in India. The script of these languages also varies a lot.
 
 <!--more-->
 
-GitHub Flavored Markdown is supported.
 
 ```ruby
 def print_hi(name)
