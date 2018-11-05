@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll and EasyBook"
-date:   2014-12-30 09:00:13
+title:  "Script Recognition"
+date:   2018-11-06 09:00:13
 categories: jekyll update
 permalink: /archivers/hello
 ---
