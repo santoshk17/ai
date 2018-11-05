@@ -48,7 +48,7 @@ You are using [EasyBook][github-easybook] the template from [laobubu.net](http:/
 
 EasyBook uses upaiyun CDN to make everyone lncluding Chinese visitors feel speedy. You can find it in `_includes/footer.html` and change it to your favorite CDN like Google CDN.
 
-## Support me by... ##
+
 
 ### Add a link ###
 
@@ -57,9 +57,6 @@ EasyBook does not make the footer heavy; the link to theme could be on `about.md
 > This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
 
 
-### Star and Fork on GitHub (free) ###
-
-Not going to donate? That's okay. You can also send out your precious star [on GitHub][github-easybook].
 
 ## And Here We Go ##
 
