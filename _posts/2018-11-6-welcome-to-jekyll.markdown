@@ -11,11 +11,7 @@ For this purpose, I have picked four languages: Bengali, Gujarati, Hindi, and Te
 <!--more-->
 
 
-| table | test | lorem |
-|:-----:|:----:|:-----:|
-| Praesent ultrices | convallis lorem | at sollicitudin enim |
-| Mauris | tristique cursus | arcu ac |
-| facilisis | Proin |  vulputate neque lectus|
+
 
 ## Training Data ##
 
@@ -26,6 +22,11 @@ The following websites are the source of my training data:
 
 These were chosen to keep similarity of font and style across all the scripts.
 Images of news articles were taken from these websites. It was ensured that only text was present in the image.
+
+| train | validation |
+|:-----:|:----:|
+| 70% | 30% |
+
 > **Tips:** You can disable Disqus or 多说 on posts/pages by adding `nocomments: true` into [YAML Front Matter][frontmatter].
 
 
