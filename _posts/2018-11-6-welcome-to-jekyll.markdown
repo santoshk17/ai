@@ -6,8 +6,8 @@ categories: jekyll update
 permalink: /archivers/hello
 ---
 ## Introduction ##
-There are 22 [official](https://en.wikipedia.org/wiki/Languages_with_official_status_in_India) languages in India. The script of these languages also varies a lot.
-
+There are 22 [official](https://en.wikipedia.org/wiki/Languages_with_official_status_in_India) languages in India. The script of these languages also varies a lot. The aim of this work is to recognize the language from the image of the script. 
+For this purpose, I have picked four languages: Bengali, Gujarati, Hindi, and Telugu.
 <!--more-->
 
 
