@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Welcome to this website!
+Welcome !
 
-> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
+> My name is Santosh, I work as a software engineer at Altair Engineering.
+  
+  I am interested in deep learning, machine learning and data science.
+
+  I like to explore psychology, audiobooks and documentaries.
