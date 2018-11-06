@@ -30,7 +30,8 @@ header:
     About: /about/
     Projects: /projects/
 
-permalink: /archivers/:title
+#permalink: /archivers/:title
+permalink: /projects/:title
 plugins:
  - jekyll-paginate
  - jekyll-gist
