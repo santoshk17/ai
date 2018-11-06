@@ -10,8 +10,8 @@ There are 22 [official](https://en.wikipedia.org/wiki/Languages_with_official_st
 For this purpose, I have picked four languages: Bengali, Gujarati, Hindi, and Telugu.
 <!--more-->
 
-
-
+## Model ##
+ RESNET 34 model is used for this task with the help of  [FastAi](https://docs.fast.ai/) deep learning library.
 
 ## Training Data ##
 
@@ -43,8 +43,8 @@ EasyBook does not make the footer heavy; the link to theme could be on `about.md
 
 ## Acknowledgement ##
 
-*[BBC Bengali](https://www.bbc.com/bengali) 
-*[BBC Gujarati](https://www.bbc.com/gujarati)
-*[BBC Hindi](https://www.bbc.com/hindi)
-*[BBC Telugu](https://www.bbc.com/telugu)
+*[BBC Bengali](https://www.bbc.com/bengali). 
+*[BBC Gujarati](https://www.bbc.com/gujarati).
+*[BBC Hindi](https://www.bbc.com/hindi).
+*[BBC Telugu](https://www.bbc.com/telugu).
 
