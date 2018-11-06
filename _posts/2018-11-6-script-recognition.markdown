@@ -3,7 +3,7 @@ layout: post
 title:  "Script Recognition"
 date:   2018-11-06 09:00:13
 categories: FastAi
-permalink: /archivers/hello
+permalink: /projects/hello
 ---
 ## Introduction ##
 There are 22 [official](https://en.wikipedia.org/wiki/Languages_with_official_status_in_India) languages in India. The script of these languages also varies a lot. The aim of this work is to recognize the language from the image of the script. 
