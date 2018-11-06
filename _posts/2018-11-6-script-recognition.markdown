@@ -27,20 +27,6 @@ Images of news articles were taken from these websites. It was ensured that only
 |:-----:|:----:|:----:|
 | 100| 70% | 30% |
 
-> **Tips:** You can disable Disqus or 多说 on posts/pages by adding `nocomments: true` into [YAML Front Matter][frontmatter].
-
-
-
-
-
-## Conclusion ##
-
-EasyBook does not make the footer heavy; the link to theme could be on `about.md`:
-
-> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
-
-
-
 ## Acknowledgement ##
 
 *[BBC Bengali](https://www.bbc.com/bengali). 
