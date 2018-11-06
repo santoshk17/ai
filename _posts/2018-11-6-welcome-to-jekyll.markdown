@@ -12,7 +12,7 @@ For this purpose, I have picked four languages: Bengali, Gujarati, Hindi, and Te
 
 ## Model ##
  RESNET 34 model is used for this task with the help of  [FastAi](https://docs.fast.ai/) deep learning library.
-
+The fastai library simplifies training fast and accurate neural nets using modern best practices. It's based on research in to deep learning best practices undertaken at fast.ai, including "out of the box" support for vision, text, tabular, and collab (collaborative filtering) models.
 ## Training Data ##
 
 The following websites are the source of my training data:
