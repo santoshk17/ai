@@ -2,7 +2,7 @@
 layout: post
 title:  "Script Recognition"
 date:   2018-11-06 09:00:13
-categories: jekyll update
+categories: FastAi
 permalink: /archivers/hello
 ---
 ## Introduction ##
