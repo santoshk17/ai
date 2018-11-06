@@ -23,9 +23,9 @@ The following websites are the source of my training data:
 These were chosen to keep similarity of font and style across all the scripts.
 Images of news articles were taken from these websites. It was ensured that only text was present in the image.
 
-| train | validation |
-|:-----:|:----:|
-| 70% | 30% |
+| #Images | train | validation |
+|:-----:|:----:|:----:|
+| 100| 70% | 30% |
 
 > **Tips:** You can disable Disqus or 多说 on posts/pages by adding `nocomments: true` into [YAML Front Matter][frontmatter].
 
@@ -43,11 +43,8 @@ EasyBook does not make the footer heavy; the link to theme could be on `about.md
 
 ## Acknowledgement ##
 
-[BBC Bengali](https://www.bbc.com/bengali]) 
-
-[BBC Gujarati]:(https://www.bbc.com/gujarati)
-
-[BBC Hindi]:   (https://www.bbc.com/hindi)
-
-[BBC Telugu]: (https://www.bbc.com/telugu)
+*[BBC Bengali](https://www.bbc.com/bengali]) 
+*[BBC Gujarati]:(https://www.bbc.com/gujarati)
+*[BBC Hindi]:   (https://www.bbc.com/hindi)
+*[BBC Telugu]: (https://www.bbc.com/telugu)
 
