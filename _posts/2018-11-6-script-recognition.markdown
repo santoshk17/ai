@@ -27,6 +27,10 @@ Images of news articles were taken from these websites. It was ensured that only
 |:-----:|:----:|:----:|
 | 100| 70% | 30% |
 
+## Conclusion ##
+
+The training set used consisted of neat and clear font from the above mentioned websites. This model when tested on newspaper articles, textbook articles and others has shown a very good accuracy ( ~95 %).
+
 ## Acknowledgement ##
 
 *[BBC Bengali](https://www.bbc.com/bengali). 
