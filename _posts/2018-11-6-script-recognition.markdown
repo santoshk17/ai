@@ -29,7 +29,9 @@ Images of news articles were taken from these websites. It was ensured that only
 
 ## Conclusion ##
 
-The training set used consisted of neat and clear font from the above mentioned websites. This model when tested on newspaper articles, textbook articles and others has shown a very good accuracy ( ~95 %).
+The training set used consisted of neat and clear font from the above mentioned websites. This model when tested on newspaper articles, textbook articles and others has shown a very good accuracy( ~95 %).
+
+## Result ##
 {% include youtubePlayer.html id="XbOROy0C1w4" %}
 
 ## Acknowledgement ##
